@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Recipe REST API APP](https://github.com/Hserfx/recipe-app-api)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django, Apis**
 
-- 💬 Ask me about **python,**
+- 💬 Ask me about **Python, Selenium, Making bots**
 
 - 📫 How to reach me **mleszek.kontaktowy@gmail.com**
 
