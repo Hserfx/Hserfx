@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcel</h1>
-<h3 align="center">A hobbyist developer from poland</h3>
+<h3 align="center">A capable developer from Poland</h3>
 
-- 🔭 I’m currently working on [Recipe REST API APP](https://github.com/Hserfx/recipe-app-api)
+- 🔭 I’m currently working on [TibiaMarket](https://github.com/Hserfx/TibiaMarket)
 
 - 🌱 I’m currently learning **Django, Apis**
 
