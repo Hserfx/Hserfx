@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [TibiaMarket](https://github.com/Hserfx/TibiaMarket)
 
-- 🌱 I’m currently learning **Django, Apis**
+- 🌱 I’m currently learning **Pandas, Pillow, Tesseract and Data Science overall**
 
-- 💬 Ask me about **Python, Selenium, Making bots**
+- 💬 Ask me about **Python, Selenium, Making bots, Analytics**
 
 - 📫 How to reach me **mleszek.kontaktowy@gmail.com**
 
